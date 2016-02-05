@@ -6,7 +6,7 @@
 
 <p>Hi, this is a pet project that utilized Codeigniter and Doctrine</p>
 <p>
-    It uses Object Relational Mapping to map the your model to database's tables.
+    It uses Object Relational Mapping to map your model to database's tables.
     For simplicity, it makes developer writes less code in querying database.
     Please refer <a href="http://www.doctrine-project.org/">Doctrine Official Website</a>
     for more information.
