@@ -1,8 +1,8 @@
 <h3>Codeigniter 2 integrated with Doctrine ORM</h3>
 
-<h5>Feel lazy to write SQL statements? Feel overwhelming on the relationship between the tables? <br/>
+<h5>Feel lazy to write SQL statements? Feel overwhelming on the relationship between the tables? <br/></h5>
 
-Doctrine ORM is a solution for you</h5>
+<h6>Doctrine ORM is a solution for you</h6>
 
 <p>Hi, this is a pet project that utilized Codeigniter and Doctrine</p>
 <p>
@@ -19,7 +19,7 @@ Doctrine ORM is a solution for you</h5>
     sophisticated frameworks like Symfony or Laravel.
 </p>
 
-<h6>To use this framework, follow the steps below:<h6>
+<h6>To use this framework, follow the steps below:</h6>
 <p>1. Download the files from this repository. </p>
 <p>2. Update the database configuration inside the application/config/database.php <p>
 <p>3. Run "composer update" to download all dependencies <p>
