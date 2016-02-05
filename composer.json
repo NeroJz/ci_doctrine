@@ -1,0 +1,15 @@
+{
+    "name": "amtisb2/ci_doctrine",
+    "authors": [
+        {
+            "name": "KumHoe Lau",
+            "email": "nerojz86@gmail.com"
+        }
+    ],
+    "config":{
+      "vendor-dir": "application/vendor"
+    },
+    "require": {
+        "doctrine/orm": "*"
+    }
+}
